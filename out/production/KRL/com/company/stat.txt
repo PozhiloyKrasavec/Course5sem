@@ -1,0 +1,4 @@
+N п.п       Фамилия    Имя       Время		Дата		             Балл         Оценка
+0	keiby	vladimir	0	Mon Nov 01 21:20:16 MSK 2021	3	2
+1	keiby	dkflbvbh	0	Mon Nov 01 21:21:07 MSK 2021	20	5
+3	Peepaw peepawych	pew	0	Sun Nov 21 17:49:33 MSK 2021	16	5
